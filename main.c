@@ -146,8 +146,8 @@ int main()
             printf("Introduceti cele 6 numere pe care doriti sa le puneti pe bilet\n");
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 //VERIFICAREA NUMERELOR IN CAZ CA TE INDOIESTI CA POTI CASTIGA POTI VEDEA NUMERELE CASTIGATOARE SI APOI SA LE INTRODUCI
-//             for(i=0;i<6;i++)
-//                printf("%i ",vnr[i]);
+             for(i=0;i<6;i++)
+                printf("%i ",vnr[i]);
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             while(j<=6)
             {
