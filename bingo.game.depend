@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1644676974 source:f:\jocul de bingo\bingo.game\functii.bingo.c
+
+1644689469 source:f:\jocul de bingo\bingo.game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+
+1656073473 source:f:\proiectele mele\jocul de bingo\bingo.game\functii.bingo.c
+
+1656073630 source:f:\proiectele mele\jocul de bingo\bingo.game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+
